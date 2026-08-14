@@ -117,6 +117,8 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 http://fastshare1.com:8080/live/25711345/late8airline/98882.ts
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRicBqtUyx8WPaZvRIJTXlixtSLjNWDH7HZRC8evQawsbm1jkjlSx35jNYrrMzZwKc-JfwQAHr0SWpkJHHHbF_H0gDUWSVirVeSNJh27wIrOkxjHSHcYk3T4cMT0N0iCVyeVlUbtIKDQtQeEuf0DDqFwk2LLWIyrXe02t5k4QJ7SFgayzHzAFjJNHavPU/s500/Colors_TV_logo.svg.webp" group-title="Bangladesh",Colors HD   36
 http://66.102.126.10:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png" group-title="Bangladesh",Sun Bangla
+http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="MOVIE 🍿",Star Movies HD.......46
@@ -125,6 +127,8 @@ https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001
 http://103.175.73.12:8080/live/189/189_0.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/P5GdL9Q7/RPlus-Gold-logo-(2013).webp",R Plus Gold
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
+#EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Bangladesh",Colors Bangla Cinema
+http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg" group-title="MOVIE 🍿",HBO
