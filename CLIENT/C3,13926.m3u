@@ -251,30 +251,30 @@ http://103.159.180.34:5001/live/562.m3u8
 http://103.165.93.31:8095/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="UFC TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpk7qcLQpJwBYzXGY25LdrndzWRDs3tgwp5rY0W-pkxJQ9UVDcWvE88Ng6AGWlHpHNhjQrb28lJ2r4V_BW1fVkLySo3sB1nzTwt_LuRQ9cYGim_FInDnyZWBuULFUFI_Vr9YdIpTs7KvDsVb0CEy_XYJCmUXB4Jpo1uPnXTjh09EqP_sJLqgb6Dwf1uA/s1080/1000060530.png" group-title="WWE 🥊🥊",UFC TV......83
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist_640x360.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png" group-title="SPORTS ⚽",PTV Sports HD
-https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
-#EXTINF:-1 tvg-name="Fox Sports 501 HD" tvg-logo="http://greenpa1.com/fox.png" group-title="SPORTS ⚽",Fox Sports
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
-#EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp" group-title="SPORTS ⚽",A Sports
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="SPORTS ⚽",T sports.....66
-https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1785118211464
-#EXTINF:-1 tvg-name="CazeTV (1080i)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="SPORTS ⚽",CazeTV (1080i).......67
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png" group-title="SPORTS ⚽",Sony Ten 5......79
-https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a0062524566224a1b03050b1d40196c265d.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="SPORTS ⚽",TSports
+https://edge2.roarzone.net:8447/roarzone/edge1/1/index.m3u8?token=23889ed7ac3866269033e7285886930003a8bb00-fe44bc003d17dd111bb98006c0dfd316-1786687082-1786676282
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/25.png" group-title="SPORTS ⚽",Star Sports 1
+https://edge2.roarzone.net:8447/roarzone/edge1/7/index.m3u8?token=38af6aa0c603adc8e8c16ad7c5597aa55b99505d-3e4fb8b42edb0bb88886228b300286f4-1786687082-1786676282
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/25.png" group-title="SPORTS ⚽",Star Sports 1 BK
+https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-1/index.m3u8?token=3809e2a728235b9064065ebd3164df979238b7d7-a73eebcdbe83258bac446012524528b1-1786687082-1786676282
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/26.png" group-title="SPORTS ⚽",Star Sports 2
+https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-2/index.m3u8?token=990faf3b815a65cc1c183d96bdef1343c7ac75f1-8113bc7732b7151d9ab2def1b4ddada0-1786687082-1786676282
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/ten_cricket.png" group-title="SPORTS ⚽",Ten Cricket
+https://edge2.roarzone.net:8447/roarzone/edge1/4/index.m3u8?token=80cc5f0164dd5e47a6a40f53b53689d56021d572-8d300faa2f8d48f6dfaf1964d468c168-1786687082-1786676282
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/Unite8-2.png" group-title="SPORTS ⚽",Unite8 2 HD FIFA
+https://edge2.roarzone.net:8447/roarzone/edge1/6/index.m3u8?token=a5abaf62573c5f4502810d8cda6cff9e44aa62ae-adaa3787660449a0c9d8813dfca9759c-1786687082-1786676282
 #EXTINF:-1 tvg-name="FIGHT | TNA Wrestling Channel" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404" group-title="WWE 🥊🥊",FIGHT | TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-name="UFC FIGHT PASS" tvg-country="Unknown" group-title="WWE 🥊🥊",UFC FIGHT PASS.....84
 http://newsee.live:8089/live/6903846084938/9760640938105/85682692.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="SPORTS ⚽",Star Sports SL 1HD
-https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456c334a1b03050b1d40196c265d.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="SPORTS ⚽",T-Sports BK
+https://edge2.roarzone.net:8447/roarzone/edge7/t-sports/index.m3u8?token=852a215b776e911318735f7d5fcc68cf9b66e4dd-462497a730b6683bc29f8a24116b2699-1786687082-1786676282
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png" group-title="Cartoon 🎎🤸",Nikki HD
 https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9uaWtreS9jaHVua3MubTN1OHx8fHx8fHsiZWRnZS1wb2xpY3kiOiJleUpUZEdGMFpXMWxiblFpT2x0N0lsSmxjMjkxY21ObElqb2lhSFIwY0hNNkx5OXViMjFoZDI1dmFXcHNMbWR3WTJSdUxtNWxkQzloYTJGemFDOXVhV3RyZVM4cUlpd2lRMjl1WkdsMGFXOXVJanA3SWtSaGRHVk1aWE56VkdoaGJpSTZleUpGWkdkbFZHbHRaU0k2TVRjNE5qWXpNekkwTlgxOWZWMTkiLCJlZGdlLXNpZ25hdHVyZSI6IjJQUVVodlZIfjNwQXd4YkZtT0szMWQyZXQ5a3g1Unc4eUlla2ZuZVdSbWsifQ/chunks.m3u8
 #EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="Cartoon 🎎🤸",Sony YaY
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisR5QBfP_DypeH9hzcdg8B4ZE75CG02bTt5E0cWGIhWfnm1Xgy7HbtO6Alco8NAOxe-iPrA7WFZKz6WY3YRpNTTio_XfJRrRdXfDsxr4AZ5tDWwFk02s5qtYAJnM9piKyTsaGWefad2a-DBzlr1xOlvSqP70cAjCyC4prDfILzGey3zMGGQ1jn9KlahDc/s400/PTV%20SPORTS%20HD.png" group-title="SPORTS ⚽",PTV........68
-https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785548899222
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/Unite8-1.png" group-title="SPORTS ⚽",Unite8 1 HD FIFA
+https://edge2.roarzone.net:8447/roarzone/edge1/5/index.m3u8?token=cfde320017fb82ace54b4433b1fd6b0237d8fc94-575600b0afe3562523e36b7ed55caad7-1786687082-1786676282
 #EXTINF:-1 group-title="Cartoon 🎎🤸" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 group-title="Cartoon 🎎🤸" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo
@@ -283,28 +283,28 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-name="Motu Patlu" tvg-logo="https://i.imgur.com/5U9wof3.jpeg" group-title="Cartoon 🎎🤸",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="GOAL TV" tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="SPORTS ⚽",GOAL TV
-https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/20.png" group-title="SPORTS ⚽",Sony Ten 1
+https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-1/index.m3u8?token=9d48c7badf7472192f4ac951da31de20fd24a73d-70b5b984600c3dbc85ed736bf723358d-1786687082-1786676282
 #EXTINF:-1 tvg-name="Tom & Jerry TV" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Cartoon 🎎🤸",Tom & Jerry TV
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-title="Cartoon 🎎🤸",Kids Stars ⛔
 https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9raWRzc3RhcnMvY2h1bmtzLm0zdTh8fHx8fHx7ImVkZ2UtcG9saWN5IjoiZXlKVGRHRjBaVzFsYm5RaU9sdDdJbEpsYzI5MWNtTmxJam9pYUhSMGNITTZMeTl1YjIxaGQyNXZhV3BzTG1kd1kyUnVMbTVsZEM5aGEyRnphQzlyYVdSemMzUmhjbk12S2lJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lSV1JuWlZScGJXVWlPakUzT0RZMk16TXlORFo5ZlgxZGZRIiwiZWRnZS1zaWduYXR1cmUiOiJZdG50NVREdlo1NGZXSnNFT1hpd09rUHJXcm82THFpRUVGQ0JXRC1qamlBIn0/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Cartoon 🎎🤸",Doraemon TV
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://i.imgur.com/qxMCL3I.png" group-title="SPORTS ⚽",Bein Sports
-http://ua102.online24.pm:8222/1101/video.m3u8?token=350B326FB34F4B8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="SPORTS ⚽",Star Sports SL 2.......
-http://202.70.146.135:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-name="FB | Oman Sports TV" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9" group-title="SPORTS ⚽",FB | Oman Sports TV
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/21.png" group-title="SPORTS ⚽",Sony Ten 2
+https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-2/index.m3u8?token=6add24902bf2ffa53e283c18c0bc64c2832d999e-e49217d4623315d71255da57f79700e5-1786687082-1786676282
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/22.png" group-title="SPORTS ⚽",Sony Ten 3
+https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-3/index.m3u8?token=429242c181b3a3331f442648efdb07e458b0edd9-6b496fd8eb0d28054067b8c539946ac5-1786687083-1786676283
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/27.png" group-title="SPORTS ⚽",Star Sports Select 1
+https://edge2.roarzone.net:8447/roarzone/edge7/spl-1/index.m3u8?token=60e20d6c8daa6fafa211bd266ed3d6c6d69b0959-364136109901c1bd7f0cf027f207640c-1786687083-1786676283
 #EXTINF:-1 tvg-name="MIXER | Hunt Fish TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91" group-title="Discovery 🌍",MIXER | Hunt Fish TV
 https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport Fishing TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png" group-title="Discovery 🌍",Sport Fishing TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8?ads.channel=6600&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1783859310~exp=1783880910~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.214.44.0_yuppfast_2_channel_76_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_172.214.44.0_yuppfast_2_channel_76_-1~hmac=c02c026b0df392793f4751f2aa3d0f00b159373272ba2b767edf0d3b70a729df&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=SportFishingTV&ads.language=ENG&ads.user=0
-#EXTINF:-1 tvg-name="STAR SPORTS HINDI" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-1-hd.png" group-title="SPORTS ⚽",STAR SPORTS Hindi
-http://103.175.73.12:8080/live/151/151_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7o7FM.png" group-title="SPORTS ⚽",PK SPORTS
-https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/28.png" group-title="SPORTS ⚽",Star Sports Select 2
+https://edge2.roarzone.net:8447/roarzone/edge7/spl-2/index.m3u8?token=557f6dd9e91e9037b3b320602e90f7429b6f9391-afcf948cd21b5a6d16cc81ab9e1b9cce-1786687083-1786676283
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/73.png" group-title="SPORTS ⚽",PTV spotrs
+https://edge2.roarzone.net:8447/roarzone/edge7/ptv/index.m3u8?token=ea0a01c32711fadb655227f0ffa0df335969da45-cc4a9ea3a01f32aa3162bc4482a1dcc0-1786687083-1786676283
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="MOVIE 🍿",Star Gold Select HD (....40
 http://103.253.18.58:8000/play/a02u
 #EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNk47oTMuFgbjaG0yp7qPGD7w0Rf3rGRc7wURB_aUn-ArmAPsHo67HGOC8r-aiqd4AJhFhNQLu6LmGFhBj8pxHVL5ju7NCaI2ssa9QQm-rxmyv_zYwy9ehEIsdQVGxgLcGT8So2UCKIKIBz932Wi270pGc76elgFlp7aj3WXhrlOMvtUC2VxKni57FNg/s1080/1000060531.png" group-title="MOVIE 🍿",Sony Movies.......44
@@ -359,6 +359,36 @@ https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/add-sports-1.png" group-title="SPORTS ⚽",ASPORTS
+https://edge2.roarzone.net:8447/roarzone/edge7/128/index.m3u8?token=03ce3d3be08ebb73ff160d5ac8c0e2885cf4b473-5be984964b8958ec60670a00a03ed9cc-1786687083-1786676283
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png" group-title="SPORTS ⚽",PTV Sports HD
+https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
+#EXTINF:-1 tvg-name="Fox Sports 501 HD" tvg-logo="http://greenpa1.com/fox.png" group-title="SPORTS ⚽",Fox Sports
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1104678.m3u8
+#EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp" group-title="SPORTS ⚽",A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="SPORTS ⚽",T sports.....66
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1785118211464
+#EXTINF:-1 tvg-name="CazeTV (1080i)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="SPORTS ⚽",CazeTV (1080i).......67
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png" group-title="SPORTS ⚽",Sony Ten 5......79
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a0062524566224a1b03050b1d40196c265d.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="SPORTS ⚽",Star Sports SL 1HD
+https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a006252456c334a1b03050b1d40196c265d.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisR5QBfP_DypeH9hzcdg8B4ZE75CG02bTt5E0cWGIhWfnm1Xgy7HbtO6Alco8NAOxe-iPrA7WFZKz6WY3YRpNTTio_XfJRrRdXfDsxr4AZ5tDWwFk02s5qtYAJnM9piKyTsaGWefad2a-DBzlr1xOlvSqP70cAjCyC4prDfILzGey3zMGGQ1jn9KlahDc/s400/PTV%20SPORTS%20HD.png" group-title="SPORTS ⚽",PTV........68
+https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785548899222
+#EXTINF:-1 tvg-name="GOAL TV" tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="SPORTS ⚽",GOAL TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://i.imgur.com/qxMCL3I.png" group-title="SPORTS ⚽",Bein Sports
+http://ua102.online24.pm:8222/1101/video.m3u8?token=350B326FB34F4B8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="SPORTS ⚽",Star Sports SL 2.......
+http://202.70.146.135:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-name="FB | Oman Sports TV" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9" group-title="SPORTS ⚽",FB | Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="STAR SPORTS HINDI" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-1-hd.png" group-title="SPORTS ⚽",STAR SPORTS Hindi
+http://103.175.73.12:8080/live/151/151_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7o7FM.png" group-title="SPORTS ⚽",PK SPORTS
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMQi2XO.jpeg" group-title="SPORTS ⚽",Espn Sports
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-name="Bein Sport 3" tvg-logo="http://51.158.145.100/picons/logos/bein/1363482.png" group-title="SPORTS ⚽",Bein Sport 3
