@@ -63,8 +63,6 @@ http://fastshare1.com:8080/live/25711345/late8airline/433.ts
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8knh34Z5/iju-Jfmd.png"group-title="Bangladesh",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/R0J6rLBn/r2Pe-JQRk-KVBJNHu-A1u-ABt-MFat3ZFl-Xm4oj-Tt5SWI.png",Bangla 1
-https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
 #EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" group-title="Bangladesh",Desh TV  (19)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="Bangladesh",Sony Aath
@@ -97,8 +95,6 @@ https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/wB9kQDTZ/20240822-225812.png" group-title="Bangladesh",My Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Z54fVGww/20240822_230947.png",Nagorik
-http://103.151.61.12/Nagorik_TV/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59DTqkcr/20240822-230408.png" group-title="Bangladesh",Channel 9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mr68ZtBn/20240822-231053.png" group-title="Bangladesh",Movie Bangla
@@ -120,7 +116,7 @@ http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png" group-title="Bangladesh",Sony Television HD
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="MOVIE 🍿",Star Movies HD.......46
-https://go.skym3u.top/live/3b1f0d3d095a7062554043565e4b5f40697d5450475f4c6f02001d463f0a0062524569224a1b03050b1d40196c265d.m3u8
+http://66.102.126.10:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/tC7JLFj0/20240825_055845.png",Shemarooenterta
 http://103.175.73.12:8080/live/189/189_0.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/P5GdL9Q7/RPlus-Gold-logo-(2013).webp",R Plus Gold
@@ -271,9 +267,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Cartoon 🎎🤸",Doraemon TV
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png" group-title="Cartoon 🎎🤸",Nikki HD
-https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9uaWtreS9jaHVua3MubTN1OHx8fHx8fHsiZWRnZS1wb2xpY3kiOiJleUpUZEdGMFpXMWxiblFpT2x0N0lsSmxjMjkxY21ObElqb2lhSFIwY0hNNkx5OXViMjFoZDI1dmFXcHNMbWR3WTJSdUxtNWxkQzloYTJGemFDOXVhV3RyZVM4cUlpd2lRMjl1WkdsMGFXOXVJanA3SWtSaGRHVk1aWE56VkdoaGJpSTZleUpGWkdkbFZHbHRaU0k2TVRjNE5qWXpNekkwTlgxOWZWMTkiLCJlZGdlLXNpZ25hdHVyZSI6IjJQUVVodlZIfjNwQXd4YkZtT0szMWQyZXQ5a3g1Unc4eUlla2ZuZVdSbWsifQ/chunks.m3u8
+https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9uaWtreS9jaHVua3MubTN1OHx8fHx8fHsiZWRnZS1wb2xpY3kiOiJleUpUZEdGMFpXMWxiblFpT2x0N0lsSmxjMjkxY21ObElqb2lhSFIwY0hNNkx5OXViMjFoZDI1dmFXcHNMbWR3WTJSdUxtNWxkQzloYTJGemFDOXVhV3RyZVM4cUlpd2lRMjl1WkdsMGFXOXVJanA3SWtSaGRHVk1aWE56VkdoaGJpSTZleUpGWkdkbFZHbHRaU0k2TVRjNE5qZzFNamcwTm4xOWZWMTkiLCJlZGdlLXNpZ25hdHVyZSI6IlQyb2lSbzN6NElsdi1qeEdyNjNEfkdXTTRSdzAzYUpjRlJtREQwQW5aOEUifQ/chunks.m3u8
 #EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-title="Cartoon 🎎🤸",Kids Stars ⛔
-https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9raWRzc3RhcnMvY2h1bmtzLm0zdTh8fHx8fHx7ImVkZ2UtcG9saWN5IjoiZXlKVGRHRjBaVzFsYm5RaU9sdDdJbEpsYzI5MWNtTmxJam9pYUhSMGNITTZMeTl1YjIxaGQyNXZhV3BzTG1kd1kyUnVMbTVsZEM5aGEyRnphQzlyYVdSemMzUmhjbk12S2lJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lSV1JuWlZScGJXVWlPakUzT0RZMk16TXlORFo5ZlgxZGZRIiwiZWRnZS1zaWduYXR1cmUiOiJZdG50NVREdlo1NGZXSnNFT1hpd09rUHJXcm82THFpRUVGQ0JXRC1qamlBIn0/chunks.m3u8
+https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9raWRzc3RhcnMvY2h1bmtzLm0zdTh8fHx8fHx7ImVkZ2UtcG9saWN5IjoiZXlKVGRHRjBaVzFsYm5RaU9sdDdJbEpsYzI5MWNtTmxJam9pYUhSMGNITTZMeTl1YjIxaGQyNXZhV3BzTG1kd1kyUnVMbTVsZEM5aGEyRnphQzlyYVdSemMzUmhjbk12S2lJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lSV1JuWlZScGJXVWlPakUzT0RZNE5USTRORGQ5ZlgxZGZRIiwiZWRnZS1zaWduYXR1cmUiOiJidkhVSVVyUUFjaTh-UVcwc1JxOG5aNEhjUmdNQVFrU1ZqQ2NMWXBrSHN3In0/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Discovery 🌍",DISCOVERY বাংলা
 http://103.165.93.31:8095/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MIXER | Hunt Fish TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91" group-title="Discovery 🌍",MIXER | Hunt Fish TV
