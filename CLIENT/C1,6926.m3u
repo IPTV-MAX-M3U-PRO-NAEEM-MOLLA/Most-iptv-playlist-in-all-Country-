@@ -206,6 +206,14 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/151.ts
 http://live.balajibroadband.com:3500/live/483.m3u8
 #EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png",B4U Movie
 http://103.175.73.12:8080/live/43/43_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://streamhub.dhruvpatil681.workers.dev/2028.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://streamhub.dhruvpatil681.workers.dev/2026.m3u8
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Cartoon 🎎🤸",Jungle Book......53
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_%28formerly_Noggin%29_New_Logo.jpg" group-title="Cartoon 🎎🤸",Nick Hindi 4K.....51
