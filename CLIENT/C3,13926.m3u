@@ -350,6 +350,14 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMQi2XO.jpeg" group-title="SPORTS ⚽",Espn Sports
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://streamhub.dhruvpatil681.workers.dev/2028.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://streamhub.dhruvpatil681.workers.dev/2026.m3u8
 #EXTINF:-1 tvg-name="Bein Sport 3" tvg-logo="http://51.158.145.100/picons/logos/bein/1363482.png" group-title="SPORTS ⚽",Bein Sport 3
 http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/iMQi2XO.jpeg" group-title="SPORTS ⚽",ESPN 2
