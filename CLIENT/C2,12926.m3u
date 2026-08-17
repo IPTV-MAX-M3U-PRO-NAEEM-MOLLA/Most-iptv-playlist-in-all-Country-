@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="Bangladesh",Sony Aath 1
+http://mysave23.com/live/PeH5kPWFfG/infamous7funny/4083.ts
 #EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Bangladesh",Duronto TV NEW  (1)
 http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="Bangladesh",BTV
@@ -189,7 +191,15 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png" group-title="Discovery 🌍" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sony BBC Earth Hindi
 #EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
-http://103.180.212.191:3500/live/821.m3u8
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/7721.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://streamhub.dhruvpatil681.workers.dev/2028.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports 2
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://streamhub.dhruvpatil681.workers.dev/2026.m3u8
 #EXTINF:-1 tvg-name="Star Gold 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="MOVIE 🍿",Star Gold 2 HD 4K....41
 http://202.70.146.135:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://i.postimg.cc/6pCXvxyz/20240823_022553.png",Star Gold HD
@@ -221,7 +231,7 @@ http://103.175.73.12:8080/live/646/646_0.m3u8
 #EXTINF:-1 tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png" group-title="Discovery 🌍",National Geographic HINDI
 http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VN6PHrKZ/20240823_023950.png" group-title="Discovery 🌍",National Geographic All Language
-http://103.253.18.58:8000/play/a01l
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/7342.ts
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015347-33914326.svg?v=10.5.15" group-title="Discovery 🌍",IN: Travelxp HD (BANGLA).
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts
 #EXTINF:-1 tvg-name="Adventure Earth" tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png" group-title="Discovery 🌍",Adventure Earth.....60
@@ -269,9 +279,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Cartoon 🎎🤸",Doraemon TV
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png" group-title="Cartoon 🎎🤸",Nikki HD
-https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9uaWtreS9jaHVua3MubTN1OHx8fHx8fHsiZWRnZS1wb2xpY3kiOiJleUpUZEdGMFpXMWxiblFpT2x0N0lsSmxjMjkxY21ObElqb2lhSFIwY0hNNkx5OXViMjFoZDI1dmFXcHNMbWR3WTJSdUxtNWxkQzloYTJGemFDOXVhV3RyZVM4cUlpd2lRMjl1WkdsMGFXOXVJanA3SWtSaGRHVk1aWE56VkdoaGJpSTZleUpGWkdkbFZHbHRaU0k2TVRjNE5qZzFNamcwTm4xOWZWMTkiLCJlZGdlLXNpZ25hdHVyZSI6IlQyb2lSbzN6NElsdi1qeEdyNjNEfkdXTTRSdzAzYUpjRlJtREQwQW5aOEUifQ/chunks.m3u8
-#EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-title="Cartoon 🎎🤸",Kids Stars ⛔
-https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9raWRzc3RhcnMvY2h1bmtzLm0zdTh8fHx8fHx7ImVkZ2UtcG9saWN5IjoiZXlKVGRHRjBaVzFsYm5RaU9sdDdJbEpsYzI5MWNtTmxJam9pYUhSMGNITTZMeTl1YjIxaGQyNXZhV3BzTG1kd1kyUnVMbTVsZEM5aGEyRnphQzlyYVdSemMzUmhjbk12S2lJc0lrTnZibVJwZEdsdmJpSTZleUpFWVhSbFRHVnpjMVJvWVc0aU9uc2lSV1JuWlZScGJXVWlPakUzT0RZNE5USTRORGQ5ZlgxZGZRIiwiZWRnZS1zaWduYXR1cmUiOiJidkhVSVVyUUFjaTh-UVcwc1JxOG5aNEhjUmdNQVFrU1ZqQ2NMWXBrSHN3In0/chunks.m3u8
+http://iptv.prosto.tv:7000/ch71/video.m3u8
+#EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-title="Cartoon 🎎🤸",Kids Stars
+https://akash.sm-monirul.top/kids_stars.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="Discovery 🌍",DISCOVERY বাংলা
 http://103.165.93.31:8095/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MIXER | Hunt Fish TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91" group-title="Discovery 🌍",MIXER | Hunt Fish TV
@@ -279,15 +289,7 @@ https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.ama
 #EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Movie
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="MOVIE 🍿",Star Gold Select HD (....40
-http://103.253.18.58:8000/play/a02u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-https://streamhub.dhruvpatil681.workers.dev/2028.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports 2
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-https://streamhub.dhruvpatil681.workers.dev/2026.m3u8
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98859.ts
 #EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNk47oTMuFgbjaG0yp7qPGD7w0Rf3rGRc7wURB_aUn-ArmAPsHo67HGOC8r-aiqd4AJhFhNQLu6LmGFhBj8pxHVL5ju7NCaI2ssa9QQm-rxmyv_zYwy9ehEIsdQVGxgLcGT8So2UCKIKIBz932Wi270pGc76elgFlp7aj3WXhrlOMvtUC2VxKni57FNg/s1080/1000060531.png" group-title="MOVIE 🍿",Sony Movies.......44
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://s3.aynaott.com/storage/b64c028d8c0895ed81f3201d5979f7ba" group-title="MOVIE 🍿",HBO 2.......45
@@ -371,7 +373,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fd
 #EXTINF:-1 tvg-name="MIXER | FUEL TV" tvg-logo="https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png" group-title="SPORTS ⚽",MIXER | FUEL TV
 https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
 #EXTINF:-1 tvg-name="DSPORTS 1" tvg-logo="https://i.imgur.com/jlOZY6g.jpeg" group-title="SPORTS ⚽",DSPORTS
-http://190.117.20.37:8000/play/a08d/index.m3u8
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/4044.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="SPORTS ⚽",Ten Cricket.......70
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="SPORTS ⚽",Star Sports 1HD Hindi.........74
