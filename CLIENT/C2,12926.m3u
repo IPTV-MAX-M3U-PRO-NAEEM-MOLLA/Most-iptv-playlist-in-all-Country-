@@ -198,8 +198,10 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/7342.ts
 #EXTINF:-1 tvg-name="Investigation Discovery HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Discovery 🌍",Investigation Discovery HD
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/23790.ts
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-bbc-earth-hd.png" group-title="Discovery 🌍" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sony BBC Earth Hindi/all languages
-#EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/7721.ts
+#EXTINF:-1 group-title="INDIA | DOCUMENTARY" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-id="sonybbcearthhd.in",IN: Sony BBC EARTH (4K).
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98871.ts
+#EXTINF:-1 group-title="INDIA | DOCUMENTARY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-id="sonybbcearthhd.in",IN: SONY BBC EARTH HD (ENG)
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/174.ts
 #EXTINF:-1 tvg-name="Star Gold 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="MOVIE 🍿",Star Gold 2 HD 4K....41
 http://202.70.146.135:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.ng" group-title="MOVIE 🍿",Rakuten TV Comedy Movies
