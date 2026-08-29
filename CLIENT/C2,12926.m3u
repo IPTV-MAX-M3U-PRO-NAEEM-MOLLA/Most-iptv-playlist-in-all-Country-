@@ -181,8 +181,8 @@ https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png" group-title="ISLAM",Iqra Bangla.......95
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="SPORTS ⚽",T sports.....66
-https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="SPORTS ⚽",T sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisR5QBfP_DypeH9hzcdg8B4ZE75CG02bTt5E0cWGIhWfnm1Xgy7HbtO6Alco8NAOxe-iPrA7WFZKz6WY3YRpNTTio_XfJRrRdXfDsxr4AZ5tDWwFk02s5qtYAJnM9piKyTsaGWefad2a-DBzlr1xOlvSqP70cAjCyC4prDfILzGey3zMGGQ1jn9KlahDc/s400/PTV%20SPORTS%20HD.png" group-title="SPORTS ⚽",PTV Sports HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1404537.ts
 #EXTINF:-1 tvg-name="Amar Digital TV" tvg-logo="https://th.bing.com/th/id/OIP.ZSBINjQw_TEmElNoECErVQHaDL?rs=1&pid=ImgDetMain" group-title="Bangladesh",Amar Digital TV
@@ -293,12 +293,11 @@ https://cdn-4.pishow.tv/live/1293/master.m3u8
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp" group-title="SPORTS ⚽",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?
-#EXTINF:-1 tvg-id="PremierSports1.ie@SD" tvg-logo="https://i.imgur.com/eOybZMU.png" group-title="SPORTS ⚽" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",Premier League Sports 1
+#EXTINF:-1 tvg-name="ESPN Deportes (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="SPORTS ⚽",ESPN Deportes VIVO LALIGA
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.ie@SD" tvg-logo="https://i.imgur.com/Fx1n84p.png" group-title="SPORTS ⚽" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",Premier Sports 2 LALIGA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21"
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/900674.ts
-#EXTINF:-1 tvg-id="PremierSports2.ie@SD" tvg-logo="https://i.imgur.com/Fx1n84p.png" group-title="SPORTS ⚽" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",Premier Sports 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21"
-http://line.dream-4k.cc:80/live/T9PDHQSJ6E/W1KLEGZ9VE/101065.ts
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/266684.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" group-title="SPORTS ⚽" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
@@ -331,22 +330,23 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/71417.ts
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-name="EN | Vevo Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",EN | Vevo Pop
 https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports1.ie@SD" tvg-logo="https://i.imgur.com/eOybZMU.png" group-title="SPORTS ⚽" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",Premier League Sports 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21"
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/900674.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="SPORTS ⚽",Star Sports SL 2.......
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/9401.ts
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/iMQi2XO.jpeg" group-title="SPORTS ⚽",ESPN 2
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/325563.ts
 #EXTINF:-1 tvg-name="beIN sports Xtra" tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="SPORTS ⚽",beIN sports Xtra.....86
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://i.imgur.com/qxMCL3I.png" group-title="SPORTS ⚽",Bein Sports
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/6625.ts
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdy3hQ3zZ26hytReRLFM5pnPFYp_VIHW7L7YwySyhUz2ffwnh-2sND6j49cOHdthlJ-BCZQeC8k8nbDDnan-U2CKhsHrI9-FLT97OA9kapG7EYtlwPjfWo2d8ovRVOjcAL_Z4BCQzv88tWXjVLsgyy2kH05OEeEN_VosNl46NHzw6tWAgjrVn5jp5f8o8/s286/Channel_16_Bangladesh_Logo.png" group-title="Bangladesh",Channel 16
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",Bein Sports 1
-http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
+#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://i.imgur.com/qxMCL3I.png" group-title="SPORTS ⚽",Bein Sports
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/6625.ts
 #EXTINF:-1 tvg-name="Sananda TV" tvg-logo="https://otapp.store/uploads/tv_image/sm/sananda-tv.png" group-title="Bangladesh",Sananda TV
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1 tvg-name="Channel 1 TV" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png" group-title="SPORTS ⚽",Channel 1 TV
-https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
+#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",Bein Sports 1
+http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://assets-prod.services.toffeelive.com/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp" group-title="Discovery 🌍",Animal Planet HD Hindi/All Languages
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=3451
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015347-33914326.svg?v=10.5.15" group-title="Discovery 🌍",IN: Travelxp HD
@@ -359,8 +359,8 @@ http://103.159.180.34:5001/live/562.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 🎶" tvg-logo="https://i1.sndcdn.com/avatars-000391064673-s81kqo-t240x240.jpg",ARY MUSIC ᴴᴰ
 http://line.dream-4k.cc/live/T9PDHQSJ6E/W1KLEGZ9VE/99723.ts
-#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.ibb.co.com/99bJqpRD/Screenshot-2026-08-09-201326.png",DAZN LALIGA
-http://31.43.191.125:8080/live/20102023/123456789/243.ts
+#EXTINF:-1 tvg-name="Channel 1 TV" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png" group-title="SPORTS ⚽",Channel 1 TV
+https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="┃VIP-PL┃DISCOVERY SCIENCE HD" tvg-logo="https://img.favpng.com/2/21/14/discovery-science-television-channel-logo-png-favpng-vbzTSE1xygSWzqe8y504ggzaC.jpg" tvg-country="Unknown" group-title="Discovery 🌍",DISCOVERY SCIENCE FHD
 http://line.dream-4k.cc:80/live/T9PDHQSJ6E/W1KLEGZ9VE/708778.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VN6PHrKZ/20240823_023950.png" group-title="Discovery 🌍",National Geographic Bangla
@@ -375,3 +375,5 @@ http://line.dream-4k.cc:80/live/T9PDHQSJ6E/W1KLEGZ9VE/112876.ts
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-name="Best Action TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg" group-title="MOVIE 🍿",Best Action TV
 https://streams2.sofast.tv/ptnr-Khabriya/title-BEST_ACTION_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46d81239-7803-45e2-9341-99ca0226fb62/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
+#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.ibb.co.com/99bJqpRD/Screenshot-2026-08-09-201326.png",DAZN LALIGA
+http://31.43.191.125:8080/live/20102023/123456789/243.ts
