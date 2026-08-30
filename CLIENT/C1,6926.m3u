@@ -108,7 +108,7 @@ http://202.70.146.135:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRicBqtUyx8WPaZvRIJTXlixtSLjNWDH7HZRC8evQawsbm1jkjlSx35jNYrrMzZwKc-JfwQAHr0SWpkJHHHbF_H0gDUWSVirVeSNJh27wIrOkxjHSHcYk3T4cMT0N0iCVyeVlUbtIKDQtQeEuf0DDqFwk2LLWIyrXe02t5k4QJ7SFgayzHzAFjJNHavPU/s500/Colors_TV_logo.svg.webp" group-title="Bangladesh",Colors HD  2
 http://66.102.126.10:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://go4.pw/PHILIPINES/MTV_Asia.png" group-title="Bangladesh",HINDI - MTV HD
-http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/510200.m3u8
+http://cdn98.com/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=156002&extension=ts&play_token=xpCceVOlDd
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://go4.pw/India/SONYSAB.png" tvg-id="sonysabhd.in" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",HINDI - SONY SAB HD ◉
 http://line.myfreetv.xyz:80/live/F389522A5CF2/07F5172B0542/72150.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-bangla-cinema.png" group-title="Bangladesh",Colors Bangla Cinema
