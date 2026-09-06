@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Makkah Live" tvg-logo="https://i.imgur.com/colOISC.jpeg" group-title="ISLAM",Makkah Live
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/25079.ts
 #EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="Bangladesh",Duronto TV 🔥
-https://spoo.me/t63dbki743scjit
+https://spoo.me/488efhuu64efgj85
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRicBqtUyx8WPaZvRIJTXlixtSLjNWDH7HZRC8evQawsbm1jkjlSx35jNYrrMzZwKc-JfwQAHr0SWpkJHHHbF_H0gDUWSVirVeSNJh27wIrOkxjHSHcYk3T4cMT0N0iCVyeVlUbtIKDQtQeEuf0DDqFwk2LLWIyrXe02t5k4QJ7SFgayzHzAFjJNHavPU/s500/Colors_TV_logo.svg.webp" group-title="Bangladesh",Colors HD 🔥
 http://flowutc.com:80/live/34FQ94W/64CW3PG/72156.ts
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="Bangladesh",BTV
@@ -217,8 +217,8 @@ http://202.70.146.135:8000/play/a04c/index.m3u8
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/3802.ts
 #EXTINF:-1 tvg-name="ZB Cartun TV" tvg-logo="https://w7.pngwing.com/pngs/352/597/png-transparent-shiva-nickelodeon-sonic-cartoon-television-show-shiva-sports-equipment-fictional-character-pakdam-pakdai-thumbnail.png" group-title="Cartoon 🎎🤸",SHIVA 24 HOURS
 http://mxonlive.xyz/live/xap/342074.m3u8?e=1788562844&token=de0004664e04710bd971137a645c1753f73c378c14baf7e258305e1817fca5f0
-#EXTINF:205 tvg-logo="https://imglink.cc/cdn/_OIh6UYTpa.jpg" group-title="Cartoon 🎎🤸",Carton Vantu Bangla 4k.......56
-https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8?nocache=1785119026625
+#EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Cartoon 🎎🤸",CARTOON NETWORK HD+ HINDI
+https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png" group-title="MOVIE 🍿",Zee Bangla Cinema
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/410.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VN6PHrKZ/20240823_023950.png" group-title="Discovery 🌍",National Geographic বাংলা
@@ -241,6 +241,8 @@ http://202.70.146.135:8000/play/a05o/index.m3u8
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-name="UFC FIGHT PASS" tvg-country="Unknown" group-title="WWE 🥊🥊",UFC FIGHT PASS.....84
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1426214.ts
+#EXTINF:205 tvg-logo="https://imglink.cc/cdn/_OIh6UYTpa.jpg" group-title="Cartoon 🎎🤸",Carton Vantu Bangla 4k.......56
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8?nocache=1785119026625
 #EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png" group-title="Cartoon 🎎🤸",Sony YaY Hindi
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 tvg-id="doraemon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFP63-xpmAbHAteQeLdQT7vKNgkeVfM4OS320z84L_Q&s=10" group-title="Cartoon 🎎🤸",Hungama
@@ -249,17 +251,17 @@ http://mxonlive.xyz/live/xap/150480.m3u8?e=1788562844&token=770153f4344b44c50f06
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 group-title="Cartoon 🎎🤸" tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-#EXTINF:-1 tvg-name="Motu Patlu" tvg-logo="https://i.imgur.com/5U9wof3.jpeg" group-title="Cartoon 🎎🤸",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Jago News 24" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/Jago_News_24.png" group-title="Bangladesh",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Motu Patlu" tvg-logo="https://i.imgur.com/5U9wof3.jpeg" group-title="Cartoon 🎎🤸",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Tom & Jerry TV" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Cartoon 🎎🤸",Tom & Jerry TV
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/661308.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Cartoon 🎎🤸",Doraemon TV
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/147746.ts
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png" group-title="Cartoon 🎎🤸",Nikki HD
 http://iptv.prosto.tv:7000/ch72/video.m3u8
-#EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Cartoon 🎎🤸",Kids Stars
+#EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Cartoon 🎎🤸",CARTOON NETWORK HD+ All languages
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/117177.ts
 #EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNk47oTMuFgbjaG0yp7qPGD7w0Rf3rGRc7wURB_aUn-ArmAPsHo67HGOC8r-aiqd4AJhFhNQLu6LmGFhBj8pxHVL5ju7NCaI2ssa9QQm-rxmyv_zYwy9ehEIsdQVGxgLcGT8So2UCKIKIBz932Wi270pGc76elgFlp7aj3WXhrlOMvtUC2VxKni57FNg/s1080/1000060531.png" group-title="MOVIE 🍿",Sony Movies.......44
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
