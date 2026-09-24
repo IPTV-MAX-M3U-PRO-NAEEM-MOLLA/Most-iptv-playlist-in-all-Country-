@@ -6,7 +6,7 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG5drsL7/20260918-143215.png" group-title="Bangladesh",Jamuna
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjcBscrd/20260918-142223.png" group-title="Bangladesh",Ekattor HD
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/428.ts
+https://ireentv.pages.dev/Ekattor_TV_Server_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FznXhcQZ/20260918-143603.png" group-title="Bangladesh",SOMOY TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRHhD27M/20260918-142610.png" group-title="Bangladesh",DBC News
@@ -17,20 +17,12 @@ https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFPvQTwj/20260918-143351.png" group-title="Bangladesh",SRK
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4sdhz1S/20260918-142403.png" group-title="Bangladesh",Star Jalsha HD
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/198.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvf1m76p/20260918-142751.png" group-title="Bangladesh",Zee Bangla HD
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/435.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqZHpndq/20260918-143437.png" group-title="Bangladesh",Colors Bangla
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23306.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/854Vn9Kc/20260918-142309.png" group-title="Bangladesh",Ekhon
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgjFWCb/20260918-142451.png" group-title="Bangladesh",N TV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5sMdDw7/20260918-142828.png" group-title="Bangladesh",RTV
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tsQBsHt/20260918-142129.png" group-title="Bangladesh",Colors HD 🔥
-http://flowutc.com:80/live/34FQ94W/64CW3PG/72156.ts
 #EXTINF:-1 tvg-name="BD | SA Tv" tvg-logo="https://i.postimg.cc/DfCTQV49/20260918-143638.png" group-title="Bangladesh",BD | SA Tv  (12)
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 #EXTINF:-1 tvg-name="NTV UK" tvg-logo="https://i.postimg.cc/bJgjFWCb/20260918-142451.png" group-title="Bangladesh",NTV UK
@@ -45,6 +37,22 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J42R8w1c/20260918-105856.png" group-title="Bangladesh",Deepto
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4sdhz1S/20260918-142403.png" group-title="Bangladesh",Star Jalsha HD
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/198.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvf1m76p/20260918-142751.png" group-title="Bangladesh",Zee Bangla HD
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23305.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqZHpndq/20260918-143437.png" group-title="Bangladesh",Colors Bangla
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23306.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmX5WGL/20260917-185112.png" group-title="Bangladesh",Sun Bangla
+https://ireentv.pages.dev/Sun_Bangla_Server_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBsvZqLs/20260917-182117.png" group-title="MOVIE 🍿",Zee Bangla Cinema
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/410.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTBHcLS/20260917-184350.png" group-title="MOVIE 🍿",Jalsha Movies HD
+http://steveit4.net:80/live/3D458C361A77/80DD123017CE/76205.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/655QwLC9/20260917-184444.png" group-title="Bangladesh",JALSHA MOVIES
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tsQBsHt/20260918-142129.png" group-title="Bangladesh",Colors HD 🔥
+http://flowutc.com:80/live/34FQ94W/64CW3PG/72156.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvWg5ZmC/20260919-102539.png" group-title="Bangladesh",Ananda
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkTGp9Y8/20260918-105823.png" group-title="Bangladesh",Channel 9 HD
@@ -52,17 +60,17 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
 #EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://i.postimg.cc/15jySx9N/20260918-105648.png" group-title="Bangladesh",HINDI - DD NATIONAL
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72180.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXTP3Vty/20260918-105226.png" group-title="Bangladesh",ATN Bangla
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908660.m3u8
+https://ireentv.pages.dev/ATN_BANGLA_HD_Server_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15jySx9q/20260918-105617.png" group-title="Bangladesh",Bangla Tv
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxtjvNrK/20260918-105540.png" group-title="Bangladesh",IN - ASIAN TV
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1126364.ts
+https://ireentv.pages.dev/Asian_TV_Server_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNsmHQpM/20260918-105406.png" group-title="Bangladesh",Enter TV.......93
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/7Y6qjPyL/20260918-105253.png" group-title="Bangladesh",Independent TV
-https://akash-backup.sm-monirul-islam-rs.workers.dev/independent_tv.m3u8
+https://tv.kbhub.online/Bangladesh/Independent-TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCGMP624/20260918-105041.png" group-title="Bangladesh",ATN News
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/427.ts
+https://ireentv.pages.dev/Atn_News_Server_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFG9Pdw1/20260918-105155.png" group-title="Bangladesh",Bijoy Tv
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/408.ts
 #EXTINF:-1 tvg-name="News 21 Bangla TV" tvg-logo="https://i.postimg.cc/59pxPYTs/20260918-104720.png" group-title="Bangladesh",News 21 Bangla TV
@@ -97,8 +105,6 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjNxv8Yp/20260917-202936.png" group-title="Bangladesh",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43tfw8Rw/Zee_TV.png" group-title="Bangladesh",Zee Tv
-http://flowutc.com:80/live/34FQ94W/64CW3PG/72135.ts
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://i.postimg.cc/Zq3bjfzc/20260917-185551.png" group-title="MOVIE 🍿",Sony PIX HD
 http://steveit4.net:80/live/3D458C361A77/80DD123017CE/72148.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CWpwygm/20260917-185459.png" group-title="Bangladesh",Maasranga
@@ -107,34 +113,28 @@ https://mtv.sunplex.live/MAASRANGA/index.m3u8
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/145.ts
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/BnjQPSY6/20260917-185326.png" group-title="Bangladesh",Colors Bangla Cinema.
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmX5WGL/20260917-185112.png" group-title="Bangladesh",Sun Bangla
-http://103.159.180.34:5001/live/1669.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rshMz352/20260917-204241.png" group-title="Bangladesh",Sony Aath 1
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-name="MNX HD" tvg-logo="https://i.postimg.cc/jqhjGknR/20260917-184302.png" group-title="MOVIE 🍿",MNX HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1020230.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCvqLrnq/20260917-185153.png" group-title="Bangladesh",HUM TV
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510208.ts
+https://ireentv.pages.dev/Hum_TV_HD_Server_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1BjKwh2/20260917-185237.png" group-title="Bangladesh",Star Plus HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1019856.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTBHcLS/20260917-184350.png" group-title="MOVIE 🍿",Jalsha Movies HD
-http://flowutc.com:80/live/3AC142C32F9164D/DVHkSD3WVm/76205.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50VxrwxH/20260917-203209.png" group-title="Bangladesh",Akash Bangla
-https://cdn-4.pishow.tv/live/969/master.m3u8
+https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFnwp09G/20260917-185021.png" group-title="MOVIE 🍿",Sony Max HD
 http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1020169.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK75qBLN/20260917-184946.png" group-title="Bangladesh",Khusbo Bangla
-https://cdn-4.pishow.tv/live/1473/master.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://i.postimg.cc/NfJj09xD/20260917-184849.png" group-title="Cartoon 🎎🤸",Disney Channel
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
 #EXTINF:-1 tvg-name="Probashi TV" tvg-logo="https://i.postimg.cc/FssKmg07/20260917-184649.png" group-title="Bangladesh",Probashi TV
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHqZmgv9/20260917-184738.png" group-title="Bangladesh",Ruposhi Bangla
-https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Bnh1fq0X/RPlus-News-logo-2017.webp",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbb4j60b/20260917-184609.png" group-title="Bangladesh",Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43tfw8Rw/Zee_TV.png" group-title="Bangladesh",Zee Tv
+http://flowutc.com:80/live/34FQ94W/64CW3PG/72135.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X77v3c9n/20260917-184526.png" group-title="Bangladesh",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2cPZHLj/20260917-183818.png" group-title="Bangladesh",Sony Television HD
@@ -156,9 +156,7 @@ http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/210.ts
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.postimg.cc/Y08qYhB9/20260917-183853.png" group-title="MOVIE 🍿",Star Gold THRILLS
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/773735.ts
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://i.postimg.cc/FzGs37XF/20260917-183735.png" group-title="MOVIE 🍿",Colors Cineplex FHD
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1020167.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/655QwLC9/20260917-184444.png" group-title="Bangladesh",JALSHA MOVIES
-https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+http://41smartpro.xyz:80/live/bmg12mk788/UPBTUU4/1020166.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG7g2WZf/20260917-183528.png" group-title="MOVIE 🍿",Star Movies Select HD
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23270.ts
 #EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/Wzs1d0KC/20260917-183444.png" group-title="Bangladesh",Movie Bangla
@@ -182,45 +180,51 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26Q5j0Hz/20260917-183055.png" group-title="ISLAM",Iqra Bangla.......95
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLcbW8HQ/20260917-182941.png" group-title="SPORTS ⚽",T sports
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/18452.ts
+https://ireentv.pages.dev/T_Sports_HD_Server_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1thtZkr7/20260917-182334.png" group-title="SPORTS ⚽",PTV Sports HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1404537.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63cN1gjc/20260918-142530.png" group-title="Bangladesh",G TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+https://ireentv.pages.dev/GAZI_TV_Server_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50Bt9sPV/20260917-182843.png" group-title="MOVIE 🍿",Star Gold HD
-http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1020176.ts
+http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1020175.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.pn" group-title="MOVIE 🍿",Movies Thriller (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://i.postimg.cc/d1P1KbjW/20260917-182634.png" group-title="Discovery 🌍",Discovery বাংলা/Hindi All Languages
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98872.ts
+#EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://i.postimg.cc/d1P1KbjW/20260917-182634.png" group-title="Discovery 🌍",Discovery বাংলা
+http://steveit4.net:80/live/3D458C361A77/80DD123017CE/510485.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1thtZkrM/20260917-182512.png" group-title="Discovery 🌍",National Geographic বাংলা/HINDI All languages
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98874.ts
+#EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://i.postimg.cc/d1P1KbjW/20260917-182634.png" group-title="Discovery 🌍",Discovery বাংলা/Hindi All Languages
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98872.ts
 #EXTINF:-1 tvg-name="Star Gold 2 HD" tvg-logo="https://i.postimg.cc/wv8vdCkT/20260917-182745.png" group-title="MOVIE 🍿",Star Gold 2 HD 4K....41
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1020177.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqyR2bpL/20260917-182236.png" group-title="Bangladesh",Nagorik TV
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/3802.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.ng" group-title="MOVIE 🍿",Rakuten TV Comedy Movies
-https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBsvZqLs/20260917-182117.png" group-title="MOVIE 🍿",Zee Bangla Cinema
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/410.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbb4j60b/20260917-184609.png" group-title="Bangladesh",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://i.postimg.cc/wBsvZqL3/20260917-182021.png" group-title="MOVIE 🍿",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Cartoon 🎎🤸",Jungle Book......53
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y4jVMMD/20260917-181909.png" group-title="Cartoon 🎎🤸",Nick Bangla/Hindi/All Languages 4K
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98880.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y4jVMMD/20260917-181909.png" group-title="Cartoon 🎎🤸",Nick Bangla
+https://ireentv.pages.dev/Nick_Bangla_Server_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wM7yg00/20260918-111003.png" group-title="Cartoon 🎎🤸",Nick HINDI
+http://steveit4.net:80/live/3D458C361A77/80DD123017CE/809045.ts
+#EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/cartoon-network-dk.png" group-title="Cartoon 🎎🤸",CARTOON NETWORK
+https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:205 tvg-logo="https://imglink.cc/cdn/_OIh6UYTpa.jpg" group-title="Cartoon 🎎🤸",Carton Vantu Bangla 4k.......56
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8?nocache=1785119026625
 #EXTINF:-1 tvg-name="Jago News 24" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/Jago_News_24.png" group-title="Bangladesh",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-51 tvg-logo="https://i.postimg.cc/g06JQz8n/20260917-181809.png" group-title="Cartoon 🎎🤸",Sony YaY Hindi
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
+#EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Cartoon 🎎🤸",CARTOON NETWORK HD+ All languages
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/117177.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwHsf00p/20260917-181702.png" group-title="MOVIE 🍿",Rongeen
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/Pq8x9XYc/20260917-182420.png" group-title="Discovery 🌍",National Geographic Bangla
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/7342.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHNy7VBR/20260919-105419.png" group-title="Discovery 🌍",DISCOVERy Hindi
 http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/Pq8x9XYc/20260917-182420.png" group-title="Discovery 🌍",National Geographic Bangla
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/7342.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8xznqFF/20260919-103738.png" group-title="Discovery 🌍",Travelxp Bangla
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts
 #EXTINF:-1 tvg-name="Investigation Discovery HD" tvg-logo="https://i.postimg.cc/hPfqpC9r/20260918-145142.png" group-title="Discovery 🌍",Investigation Discovery HINDI
@@ -241,14 +245,12 @@ http://202.70.146.135:8000/play/a067/index.m3u8
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-name="UFC FIGHT PASS" tvg-country="Unknown" group-title="WWE 🥊🥊",UFC FIGHT PASS.....84
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1426214.ts
-#EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Cartoon 🎎🤸",CARTOON NETWORK HD+ All languages
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/117177.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jq3m6LbV/20260919-110230.png" group-title="Cartoon 🎎🤸",Discovery Kids
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/442qvmTD/20260919-110734.png" group-title="Cartoon 🎎🤸",Pogo
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
-#EXTINF:-1 tvg-name="Motu Patlu" tvg-logo="https://i.imgur.com/5U9wof3.jpeg" group-title="Cartoon 🎎🤸",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y4jVMMD/20260917-181909.png" group-title="Cartoon 🎎🤸",Nick Bangla/Hindi/All Languages 4K
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98880.ts
 #EXTINF:-1 tvg-name="Tom & Jerry TV" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Cartoon 🎎🤸",Tom & Jerry TV
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/661308.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdCVgkMR/20260917-181607.png" group-title="Bangladesh",Channel 16
@@ -263,8 +265,6 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/175130.ts
 https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="doraemon" tvg-logo="https://i.postimg.cc/g2jryq01/20260917-181314.png" group-title="Cartoon 🎎🤸",Hungama
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/638050.ts
-#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIAN/CINEPLEXHD.png" tvg-id="sports18.in",HINDI - CINEPLEX HD
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72176.ts
 #EXTINF:-1 tvg-name="Colors Cineplex Bollywood" tvg-logo="https://i.postimg.cc/fRyk7jbP/20260917-181146.png" group-title="MOVIE 🍿",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770548420-84091417.jpeg?v=10.5.15" group-title="ISLAM",ISLAM বাংলা
@@ -285,8 +285,6 @@ https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 http://flowutc.com:80/live/34FQ94W/64CW3PG/72218.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dsgPs1r/20260918-111946.png" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvQP1sQq/20260918-111906.png" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",Sangeet Bhojpuri
-https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://i.postimg.cc/QMpDcHc2/20260918-111823.png" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="SPORTS ⚽",A Sports
@@ -317,16 +315,14 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72219.ts
 http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
 #EXTINF:-1 tvg-name="EN | Vevo Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",EN | Vevo Pop
 https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wM7yg00/20260918-111003.png" group-title="Cartoon 🎎🤸",Nick Hindi 4K.....51
-http://alpha3-ott.me:80/play/live.php?mac=00:1B:79:47:12:B3&stream=1540023&extension=ts&play_token=3aWC7Ic2NW
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png" group-title="SPORTS ⚽",Star Sports 1 HD
 http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1404528.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhwmybHs/20260918-110810.png" group-title="SPORTS ⚽",SONY SPORTS TEN 2 HD
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98862.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh9pcdrj/20260918-110731.png" group-title="SPORTS ⚽",SONY SPORTS TEN 3
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98863.ts
-#EXTINF:-1 tvg-name="DSPORTS 1" tvg-logo="https://i.postimg.cc/Dw4nyCZH/20260918-110627.png" group-title="SPORTS ⚽",DSPORTS
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/4044.ts
+http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1090642.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nh9pcdrj/20260918-110731.png" group-title="SPORTS ⚽",SONY SPORTS TEN 1
+http://steveit4.net:80/live/3D458C361A77/80DD123017CE/1090641.ts
+#EXTINF:-1 tvg-name="DSPORTS 1" tvg-logo="https://i.postimg.cc/Dw4nyCZH/20260918-110627.png" group-title="SPORTS ⚽",DDSPORTS
+http://steveit4.net:80/live/3D458C361A77/80DD123017CE/72187.ts
 #EXTINF:-1 tvg-name="Sananda TV" tvg-logo="https://i.postimg.cc/Z5v4KfRg/20260918-110557.png" group-title="Bangladesh",Sananda TV
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-name="GOAL TV" tvg-logo="https://i.postimg.cc/wjRgTWMK/20260918-110526.png" group-title="SPORTS ⚽",GOAL TV
@@ -335,8 +331,6 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="SPORTS ⚽",Star Sports SL 2.......
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/9401.ts
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Discovery 🌍",Discovery Turbo
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23917.ts
 #EXTINF:-1 tvg-name="Adventure Earth" tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png" group-title="Discovery 🌍",Adventure Earth ENG
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rF32bSJg/Animal_Planet_.png" group-title="Discovery 🌍",ANIMAL PLANET ENG
@@ -360,13 +354,13 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 #EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" ,US - GOLD TV 24/7 SCIFI MOVIES HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/621134.ts
 #EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://i.postimg.cc/ZKChVfr3/20260918-145037.png" group-title="MOVIE 🍿",HINDI - SONY PAL
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72151.ts
+http://live.balajibroadband.com:3500/live/474.m3u8
 #EXTINF:-1 tvg-id="sonywah.in" tvg-logo="https://i.postimg.cc/xjs2Grbd/20260918-144735.png" group-title="MOVIE 🍿",HINDI - SONY WAH
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72152.ts
+http://live.balajibroadband.com:3500/live/1393.m3u8
 #EXTINF:-1 tvg-name="beIN sports Xtra" tvg-logo="https://i.postimg.cc/h4CB8F7t/20260918-143710.png" group-title="SPORTS ⚽",beIN sports Xtra.....86
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWSg0G7W/20260918-143801.png" group-title="SPORTS ⚽",Bein Sports 1
-http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
+http://steveit4.net:80/live/3D458C361A77/80DD123017CE/78137.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkYxjPb9/20260917-171759.png" group-title="SPORTS ⚽",DAZN LALIGA
 http://31.43.191.125:8080/live/20102023/123456789/243.ts
 #EXTINF:-1 tvg-id="PremierSports2.ie@SD" tvg-logo="https://i.imgur.com/Fx1n84p.png" group-title="SPORTS ⚽" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",Premier Sports 2 LALIGA
@@ -376,8 +370,6 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/348267.ts
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510261.ts
 #EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIA/and-picture.png" tvg-id="sports18.in",HINDI - AND PICTURES HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72165.ts
-#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIAN/ENTER10MOVIES.png" tvg-id="enterr10.in",HINDI - ENTER 10 MOVIES
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72195.ts
 #EXTINF:-1 tvg-id="b4umovies.in" tvg-logo="https://i.postimg.cc/ZYP9J5gM/B4U-Movie.png" group-title="MOVIE 🍿",HINDI - B4U MOVIES
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72155.ts
 #EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/India/_BIG MAGIC .png" tvg-id="bigmagic.in",HINDI - BIG MAGIC HD
@@ -386,10 +378,6 @@ http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72173.ts
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72177.ts
 #EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/India/&explorer.png" tvg-id="sports18.in",HINDI - AND EXPLORER HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510293.ts
-#EXTINF:-1 tvg-name="DISCOVERY বাংলা" tvg-logo="https://i.postimg.cc/d1P1KbjW/20260917-182634.png" group-title="Discovery 🌍",DISCOVERY Bangla
-http://sm-monirul.xyz/@monirul_Islam_SM/exp.php?id=discovery_bangla&sm=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8xznqFF/20260919-103738.png" group-title="Discovery 🌍",Travelxp HD/বাংলা
-http://66.102.126.10:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIA/miniplex-1.png" tvg-id="sports18.in",HINDI - MINIPLEX HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72212.ts
 #EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIA/AND-XPLOR.png" ,IN - AND XPLOR FHD
@@ -404,8 +392,6 @@ http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/433.ts
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72160.ts
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 🎶" tvg-logo="https://go4.pw/ASIA/INDIA/SHOWBOX_MUSIC.png" tvg-id="sports18.in",HINDI - SHOWBOX MUSIC
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510230.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA." group-title="MOVIE 🍿",Lionsgate Play Hindi
-http://103.159.180.34:5001/live/2327.m3u8
 #EXTINF:-1 tvg-id="PremierSports1.ie@SD" tvg-logo="https://i.imgur.com/eOybZMU.png" group-title="SPORTS ⚽" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21",Premier League Sports 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21"
 http://opplex.ch:8080/live/abdulrehman/12345678/346240.ts
