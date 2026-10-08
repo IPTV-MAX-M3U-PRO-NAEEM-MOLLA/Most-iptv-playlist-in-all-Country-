@@ -72,7 +72,7 @@ https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chu
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTBHcLS/20260917-184350.png" group-title="MOVIE 🍿",Jalsha Movies HD
 http://198.195.239.50:8095/JALSHA.MOVIES.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://i.postimg.cc/Zq3bjfzc/20260917-185551.png" group-title="MOVIE 🍿",Sony PIX HD
-http://3tv.pro:80/play/live.php?mac=00:1A:79:13:6F:31&stream=156004&extension=ts&play_token=aEFgXqsUnj
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=1116481&extension=ts&play_token=V2G8NX4umX
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFnwp09G/20260917-185021.png" group-title="MOVIE 🍿",Sony Max HD
 http://198.195.239.50:8095/SONY.MAX.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/880235.png" group-title="MOVIE 🍿",AXN Movies
@@ -84,7 +84,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkTGp9Y8/20260918-105823.png" group-title="Bangladesh",Channel 9 HD
 https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8
 #EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://i.postimg.cc/15jySx9N/20260918-105648.png" group-title="Bangladesh",HINDI - DD NATIONAL
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72180.ts
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNsmHQpM/20260918-105406.png" group-title="Bangladesh",Enter TV.......93
 https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFG9Pdw1/20260918-105155.png" group-title="Bangladesh",Bijoy Tv
@@ -173,20 +173,20 @@ http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=45549&extensi
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/773735.ts
 #EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/Wzs1d0KC/20260917-183444.png" group-title="Bangladesh",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/nrnhXq5d/20260917-183624.png" tvg-country="Unknown" group-title="MOVIE 🍿",HBO 3
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/68811.ts
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="MOVIE 🍿",Movies Now
 http://198.195.239.50:8095/MOVIES.NOW.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/22af43810a37af9a151f1e0a23adde63" group-title="MOVIE 🍿",Rakuten TV Action Movies
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 tvg-name="Sony KAL Hindi (1080p)" tvg-logo="https://i.postimg.cc/mkTgP7qY/20260917-183408.png" group-title="MOVIE 🍿",Sony KAL Hindi ......89
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50Bt9sPV/20260917-182843.png" group-title="MOVIE 🍿",Star Gold HD
+http://198.195.239.50:8095/STAR.GOLD.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Amar Digital TV" tvg-logo="https://i.postimg.cc/bJxvYm69/20260917-183322.png" group-title="Bangladesh",Amar Digital TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://i.postimg.cc/d1P1KbjW/20260917-182634.png" group-title="Discovery 🌍",Discovery বাংলা
-http://198.195.239.50:8095/DISCOVERY.HD/tracks-v1a1/mono.m3u8
+http://vca.easy747.com:80/live/0578694/1295K6K/510485.ts
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/jdLJvSt2/20261001-194855.png" group-title="Discovery 🌍",National Geographic HINDI
-http://vca.easy747.com:80/live/0578694/1295K6K/72220.ts
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=156011&extension=ts&play_token=gJuMNkDY7p
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="ISLAM",Quran TV.......96
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26Q5j0Hz/20260917-183055.png" group-title="ISLAM",Iqra Bangla.......95
@@ -197,10 +197,10 @@ http://198.195.239.50:8095/T-SPORTS-HD/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63cN1gjc/20260918-142530.png" group-title="Bangladesh",G TV
 http://198.195.239.50:8095/GAZI.TV.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50Bt9sPV/20260917-182843.png" group-title="MOVIE 🍿",Star Gold HD
-http://198.195.239.50:8095/STAR.GOLD.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="MOVIE 🍿",Movies Thriller (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Gold 2 HD" tvg-logo="https://i.postimg.cc/wv8vdCkT/20260917-182745.png" group-title="MOVIE 🍿",Star Gold 2 HD
+http://vca.easy747.com:80/live/0578694/1295K6K/1020178.ts
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/Pq8x9XYc/20260917-182420.png" group-title="Discovery 🌍",National Geographi বাংলা
 http://198.195.239.50:8095/NATGEO.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Wild Flix Hindi" tvg-logo="https://i.postimg.cc/tT3gRBrs/20260917-183147.png" group-title="Discovery 🌍",Wild Flix Hindi
@@ -211,14 +211,14 @@ http://198.195.239.50:8095/NATGEO.WILD.HD/tracks-v1a1/mono.m3u8
 http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=155885&extension=ts&play_token=EleZ8z6I1d
 #EXTINF:205 tvg-logo="https://imglink.cc/cdn/_OIh6UYTpa.jpg" group-title="Cartoon 🎎🤸",Carton Vantu Bangla 4k.......56
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8?nocache=1785119026625
-#EXTINF:-1 tvg-name="Star Gold 2 HD" tvg-logo="https://i.postimg.cc/wv8vdCkT/20260917-182745.png" group-title="MOVIE 🍿",Star Gold 2 HD 4K....41
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1020177.ts
+#EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://i.postimg.cc/wBsvZqL3/20260917-182021.png" group-title="MOVIE 🍿",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqyR2bpL/20260917-182236.png" group-title="Bangladesh",Nagorik TV
 http://198.195.239.50:8095/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbb4j60b/20260917-184609.png" group-title="Bangladesh",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://i.postimg.cc/wBsvZqL3/20260917-182021.png" group-title="MOVIE 🍿",Sony Movies
-https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwHsf00p/20260917-181702.png" group-title="MOVIE 🍿",Rongeen
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="doraemon" tvg-logo="https://i.postimg.cc/g2jryq01/20260917-181314.png" group-title="Cartoon 🎎🤸",Super Hungama
 http://198.195.239.50:8095/SUPER.HUNGAMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Cartoon 🎎🤸",Jungle Book......53
@@ -232,11 +232,11 @@ http://198.195.239.50:8095/CARTON.NETWORK.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Jago News 24" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/Jago_News_24.png" group-title="Bangladesh",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/cartoon-network-dk.png" group-title="Cartoon 🎎🤸",CARTOON NETWORK
-https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="https://i.postimg.cc/rF32bSJg/Animal_Planet_.png" group-title="Discovery 🌍",ANIMAL PLANET Hindi
 http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=156168&extension=ts&play_token=UvEPnTjg3O
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwHsf00p/20260917-181702.png" group-title="MOVIE 🍿",Rongeen
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Colors Cineplex Bollywood" tvg-logo="https://i.postimg.cc/fRyk7jbP/20260917-181146.png" group-title="MOVIE 🍿",Colors Cineplex Bollywood
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=946375&extension=ts&play_token=s7k72prJeY
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/Pq8x9XYc/20260917-182420.png" group-title="Discovery 🌍",National Geographic Bangla
 http://198.195.239.50:8095/nationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://i.postimg.cc/d1P1KbjW/20260917-182634.png" group-title="Discovery 🌍",Discovery বাংলা/Hindi All Languages
@@ -244,11 +244,11 @@ http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98872.ts
 #EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://i.postimg.cc/d1917-634.png" group-title="Discovery 🌍",TLC HINDI
 http://198.195.239.50:8095/TLC.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Investigation Discovery HD" tvg-logo="https://i.postimg.cc/hPfqpC9r/20260918-145142.png" group-title="Discovery 🌍",Investigation Discovery HINDI
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23790.ts
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=1540019&extension=ts&play_token=tZdCPu2iLS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHNy7VBR/20260919-105419.png" group-title="Discovery 🌍",DISCOVERy Hindi
-http://202.70.146.135:8000/play/a05z/index.m3u8
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=280754&extension=ts&play_token=7YNXIFggYv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8xznqFF/20260919-103738.png" group-title="Discovery 🌍",Travelxp Bangla
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts
+http://198.195.239.50:8095/TRAVELXP.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8xznqFF/20260919-103738.png" group-title="Discovery 🌍",Travel XP HD HINDI
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/181.ts
 #EXTINF:-1 tvg-name="EN | TRACE UK" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",EN TRACE UK
@@ -259,34 +259,32 @@ https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Adventure Earth" tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png" group-title="Discovery 🌍",Adventure Earth ENG
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="UFC TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpk7qcLQpJwBYzXGY25LdrndzWRDs3tgwp5rY0W-pkxJQ9UVDcWvE88Ng6AGWlHpHNhjQrb28lJ2r4V_BW1fVkLySo3sB1nzTwt_LuRQ9cYGim_FInDnyZWBuULFUFI_Vr9YdIpTs7KvDsVb0CEy_XYJCmUXB4Jpo1uPnXTjh09EqP_sJLqgb6Dwf1uA/s1080/1000060530.png" group-title="WWE 🥊🥊",UFC TV......83
-https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-name="UFC TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpk7qcLQpJwBYzXGY25LdrndzWRDs3tgwp5rY0W-pkxJQ9UVDcWvE88Ng6AGWlHpHNhjQrb28lJ2r4V_BW1fVkLySo3sB1nzTwt_LuRQ9cYGim_FInDnyZWBuULFUFI_Vr9YdIpTs7KvDsVb0CEy_XYJCmUXB4Jpo1uPnXTjh09EqP_sJLqgb6Dwf1uA/s1080/1000060530.png" group-title="WWE 🥊🥊",UFC TV WWE
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=45462&extension=ts&play_token=msAnZKetJD
 #EXTINF:-1 tvg-name="UFC FIGHT PASS" tvg-country="Unknown" group-title="WWE 🥊🥊",UFC FIGHT PASS.....84
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/1426214.ts
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jq3m6LbV/20260919-110230.png" group-title="Cartoon 🎎🤸",Discovery Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/442qvmTD/20260919-110734.png" group-title="Cartoon 🎎🤸",Pogo
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Tom & Jerry TV" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Cartoon 🎎🤸",Tom & Jerry TV
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/661308.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Cartoon 🎎🤸",Doraemon TV
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/147746.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdCVgkMR/20260917-181607.png" group-title="Bangladesh",Channel 16
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N01tR5R7/20260918-111509.png" group-title="SPORTS ⚽",Ten Cricket
 https://ireentv.pages.dev/Sony_Ten_Cricket_Server_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Cx5dCHKt/20260917-181443.png" group-title="Cartoon 🎎🤸",Nikki HD
 http://iptv.prosto.tv:7000/ch72/video.m3u8
-#EXTINF:-1 group-title="Cartoon 🎎🤸" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" tvg-id="sports18.in",HINDI - DISNEY JUNIOR
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/175130.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="Cartoon 🎎🤸",HINDI - DISNEY JUNIOR
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=811469&extension=ts&play_token=CoeoepxQka
 #EXTINF:-1 tvg-name="Kids Stars" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Cartoon 🎎🤸",CARTOON NETWORK HD+ HINDI
 http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=280748&extension=ts&play_token=tGtnNYa0LD
 #EXTINF:-1 tvg-id="doraemon" tvg-logo="https://i.postimg.cc/g2jryq01/20260917-181314.png" group-title="Cartoon 🎎🤸",Hungama
 http://vca.easy747.com:80/live/0578694/1295K6K/510267.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y4jVMMD/20260917-181909.png" group-title="Cartoon 🎎🤸",Nick Bangla/Hindi/All Languages 4K
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98880.ts
-#EXTINF:-1 tvg-name="Colors Cineplex Bollywood" tvg-logo="https://i.postimg.cc/fRyk7jbP/20260917-181146.png" group-title="MOVIE 🍿",Colors Cineplex Bollywood
-http://202.70.146.135:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-name="Best Action TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg" group-title="MOVIE 🍿",Best Action TV
+https://streams2.sofast.tv/ptnr-Khabriya/title-BEST_ACTION_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46d81239-7803-45e2-9341-99ca0226fb62/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770548420-84091417.jpeg?v=10.5.15" group-title="ISLAM",ISLAM বাংলা
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FJrqNcz/20260917-180900.png" group-title="ISLAM",Iqraa TV
@@ -324,15 +322,15 @@ http://198.195.239.50:8095/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhwmybHs/20260918-110810.png" group-title="SPORTS ⚽",SONY SPORTS TEN 2 HD
 http://198.195.239.50:8095/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/BnjQPSY6/20260917-185326.png" group-title="Bangladesh",Colors Bangla Cinema.
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
+http://198.195.239.50:8095/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png" group-title="SPORTS ⚽",SONY SPORTS TEN 5
 http://198.195.239.50:8095/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png" group-title="SPORTS ⚽",SONY SPORTS TEN 4
 http://198.195.239.50:8095/SONY.SPORTS.4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh9pcdrj/20260918-110731.png" group-title="SPORTS ⚽",SONY SPORTS TEN 1
 http://vca.easy747.com:80/live/0578694/1295K6K/1090641.ts
-#EXTINF:-1 tvg-name="Best Action TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg" group-title="MOVIE 🍿",Best Action TV
-https://streams2.sofast.tv/ptnr-Khabriya/title-BEST_ACTION_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/46d81239-7803-45e2-9341-99ca0226fb62/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
+#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="MOVIE 🍿",SCIFI MOVIES HD
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=558770&extension=ts&play_token=HGxeop1euJ
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/67SCpBQ3/Star-Sports3-India.webp" group-title="SPORTS ⚽",Star Sports 3
 http://198.195.239.50:8095/STAR-SPORTS.3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rF32bSJg/Animal_Planet_.png" group-title="Discovery 🌍",ANIMAL PLANET ENG
@@ -348,7 +346,7 @@ http://198.195.239.50:8095/EUROSPORTS.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="https://i.postimg.cc/s2pz5v54/20260918-111431.png" group-title="SPORTS ⚽",ASTRO CRICBUZ
 http://vca.easy747.com:80/live/0578694/1295K6K/1404519.ts
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="https://i.postimg.cc/rp6cdSRf/20260918-111302.png" group-title="SPORTS ⚽",ASTRO Football
-https://spoo.me/footballM3U
+http://vca.easy747.com:80/live/0578694/1295K6K/1170917.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrxRcQ17/20260918-111059.png" group-title="SPORTS ⚽",STAR SPORTS S1 HD
 http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIAN/TEN 3 HD.png" group-title="SPORTS ⚽",SONY SPORTS TEN 3
@@ -362,11 +360,11 @@ http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8
 #EXTINF:-1 tvg-name="DSPORTS 1" tvg-logo="https://i.postimg.cc/Dw4nyCZH/20260918-110627.png" group-title="SPORTS ⚽",DDSPORTS
 http://vca.easy747.com:80/live/0578694/1295K6K/72187.ts
 #EXTINF:-1 tvg-name="Channel 1 TV" tvg-logo="https://i.postimg.cc/QdKhx6tn/20260918-110445.png" group-title="Bangladesh",Channel 1 TV
-https://tv.kbhub.online/Bangladesh/Channel-1-TV.m3u8
+https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="GOAL TV" tvg-logo="https://i.postimg.cc/wjRgTWMK/20260918-110526.png" group-title="SPORTS ⚽",GOAL TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="https://i.postimg.cc/13YWjGhB/20260921-092216.png" group-title="Discovery 🌍",Nat Geo Wild HD ENG
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/71417.ts
+http://198.195.239.50:8095/NATGEO.WILD.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="┃VIP-PL┃DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/CLXptjNP/01315391144.png" tvg-country="Unknown" group-title="Discovery 🌍",DISCOVERY SCIENCE Hindi
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/4745.ts
 #EXTINF:-1 tvg-name="Wipeout Xtra Powered by Banijay" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000001QB_20250107T030832SQUARE.png" group-title="Discovery 🌍",Wipeout Xtra Powered by Banijay
@@ -374,7 +372,7 @@ https://d36nnn435goed2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhVnNkQq/20260918-145512.png" group-title="ISLAM",Bangla Waz
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000391064673-s81kqo-t240x240.jpg" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",ARY MUSIC ᴴᴰ
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/18309.ts
+http://vca.easy747.com:80/live/0578694/1295K6K/63193.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="SPORTS ⚽",Star Sports SL 2.......
 http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/kXBdfjxQ/20260918-145258.png" group-title="SPORTS ⚽",ESPN 3
@@ -385,12 +383,12 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 http://198.195.239.50:8095/SONY.BBC.EARTH.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/rF32bSJg/Animal_Planet_.png" group-title="Discovery 🌍",Animal Planet HD Hindi/All Languages
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98873.ts
-#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/GOLDTV/gold tv.png" ,US - GOLD TV 24/7 SCIFI MOVIES HD
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/621134.ts
 #EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://i.postimg.cc/ZKChVfr3/20260918-145037.png" group-title="MOVIE 🍿",HINDI - SONY PAL
 http://live.balajibroadband.com:3500/live/474.m3u8
 #EXTINF:-1 tvg-id="sonywah.in" tvg-logo="https://i.postimg.cc/xjs2Grbd/20260918-144735.png" group-title="MOVIE 🍿",HINDI - SONY WAH
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72152.ts
+http://live.balajibroadband.com:3500/live/1393.m3u8
+#EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://go4.pw/ASIA/INDIA/and-picture.png" group-title="MOVIE 🍿",HINDI - AND PICTURES HD
+http://198.195.239.50:8095/ANT.PICTURS.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/jdLrZ8zy/20260918-145357.png" group-title="SPORTS ⚽",ESPN 2
 http://vca.easy747.com:80/live/0578694/1295K6K/1034932.ts
 #EXTINF:-1 tvg-name="beIN sports Xtra" tvg-logo="https://i.postimg.cc/h4CB8F7t/20260918-143710.png" group-title="SPORTS ⚽",beIN sports Xtra.....86
@@ -399,24 +397,18 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 http://vca.easy747.com:80/live/0578694/1295K6K/1023969.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkYxjPb9/20260917-171759.png" group-title="SPORTS ⚽",DAZN LALIGA
 http://31.43.191.125:8080/live/20102023/123456789/243.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://go4.pw/ASIA/INDIA/and-picture.png" group-title="MOVIE 🍿",HINDI - AND PICTURES HD
-http://198.195.239.50:8095/ANT.PICTURS.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="b4umovies.in" tvg-logo="https://i.postimg.cc/ZYP9J5gM/B4U-Movie.png" group-title="MOVIE 🍿",HINDI - B4U MOVIES
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72155.ts
-#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/India/_BIG MAGIC .png" tvg-id="bigmagic.in",HINDI - BIG MAGIC HD
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72173.ts
-#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIA/comedy-active.png" tvg-id="sports18.in",HINDI - COMEDY ACTIVE
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72177.ts
-#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/India/&explorer.png" tvg-id="sports18.in",HINDI - AND EXPLORER HD
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/510293.ts
-#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIA/miniplex-1.png" tvg-id="sports18.in",HINDI - MINIPLEX HD
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72212.ts
-#EXTINF:-1 group-title="MOVIE 🍿" tvg-logo="https://go4.pw/ASIA/INDIA/AND-XPLOR.png" ,IN - AND XPLOR FHD
-http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/809016.ts
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="bigmagic.in" tvg-logo="https://go4.pw/India/_BIG MAGIC .png" group-title="MOVIE 🍿",HINDI - BIG MAGIC HD
+http://vca.easy747.com:80/live/0578694/1295K6K/72173.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-logo="https://go4.pw/India/&explorer.png" group-title="MOVIE 🍿",HINDI - AND EXPLORER HD
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=209743&extension=ts&play_token=xjskD1zA3x
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jq6WRS96/Goldmines.png" group-title="MOVIE 🍿",Gold Mines
 http://mxonlive.xyz/live/xap/112972.m3u8?e=1788562844&token=8b0078215eca2a688bca1e9ab693db1d8414aa296d03a719653f036d5acc8188
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfPB3g8c/Goldmines-Movie.png" group-title="MOVIE 🍿",Gold Mines Movie
 http://mxonlive.xyz/live/xap/112973.m3u8?e=1788562844&token=e1f541bfa14115895c0bf6ded47837db4f513667ae98bb9678e4a67223a7e4de
+#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/nrnhXq5d/20260917-183624.png" tvg-country="Unknown" group-title="MOVIE 🍿",HBO 3
+http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/68811.ts
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 🎶" tvg-logo="https://go4.pw/ASIA/INDIAN/ZOOMTVHD.png" tvg-id="zoom.in",HINDI - ZOOM TV HD
 http://cccoooeee.com:80/live/2AVDHSB/DP3YEBK/72160.ts
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜 🎶" tvg-logo="https://go4.pw/ASIA/INDIA/SHOWBOX_MUSIC.png" tvg-id="sports18.in",HINDI - SHOWBOX MUSIC
