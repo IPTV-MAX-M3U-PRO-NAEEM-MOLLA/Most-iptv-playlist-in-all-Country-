@@ -187,7 +187,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://vca.easy747.com:80/live/0578694/1295K6K/510485.ts
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/jdLJvSt2/20261001-194855.png" group-title="Discovery 🌍",National Geographic HINDI
 http://atlasgolden.xyz:80/live/T5QB4PTCQA25Q75/P2henT8V2G/72220.ts
-#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/jdLJvSt2/20261001-194855.png" group-title="Discovery 🌍",National Geographic HINDI 2
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/jdLJvSt2/20261001-194855.png" group-title="Discovery 🌍",National Geographic HINDI 1
 http://vca.easy747.com:80/live/0578694/1295K6K/72220.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="ISLAM",Quran TV.......96
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
@@ -210,7 +210,9 @@ https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-logo="https://i.postimg.cc/13YWjGhB/20260921-092216.png" group-title="Discovery 🌍",NAT GEO WILD HINDI
 http://198.195.239.50:8095/NATGEO.WILD.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="825" tvg-name="Sony BBC Earth HD English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png" tvg-language="English" group-title="Discovery 🌍",Sony BBC Earth HD HINDI
-http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=155885&extension=ts&play_token=EleZ8z6I1d
+http://bosstv.click:8080/live/18012689/77561563/74464.ts
+#EXTINF:-1 tvg-id="825" tvg-name="Sony BBC Earth HD English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png" tvg-language="English" group-title="Discovery 🌍",Sony BBC Earth HD HINDI 1
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=1118064&extension=ts&play_token=mTfV9kO1fi
 #EXTINF:205 tvg-logo="https://imglink.cc/cdn/_OIh6UYTpa.jpg" group-title="Cartoon 🎎🤸",Carton Vantu Bangla 4k.......56
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8?nocache=1785119026625
 #EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://i.postimg.cc/wBsvZqL3/20260917-182021.png" group-title="MOVIE 🍿",Sony Movies
