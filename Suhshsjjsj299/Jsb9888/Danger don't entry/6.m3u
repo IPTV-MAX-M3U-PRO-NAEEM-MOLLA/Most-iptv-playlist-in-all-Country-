@@ -72,7 +72,7 @@ https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chu
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTBHcLS/20260917-184350.png" group-title="MOVIE 🍿",Jalsha Movies HD
 http://198.195.239.50:8095/JALSHA.MOVIES.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://i.postimg.cc/Zq3bjfzc/20260917-185551.png" group-title="MOVIE 🍿",Sony PIX HD
-http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=1116481&extension=ts&play_token=V2G8NX4umX
+http://vca.easy747.com:80/live/0578694/1295K6K/72148.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFnwp09G/20260917-185021.png" group-title="MOVIE 🍿",Sony Max HD
 http://198.195.239.50:8095/SONY.MAX.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/880235.png" group-title="MOVIE 🍿",AXN Movies
@@ -186,7 +186,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://i.postimg.cc/d1P1KbjW/20260917-182634.png" group-title="Discovery 🌍",Discovery বাংলা
 http://vca.easy747.com:80/live/0578694/1295K6K/510485.ts
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/jdLJvSt2/20261001-194855.png" group-title="Discovery 🌍",National Geographic HINDI
-http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:01:6C:C6&stream=156011&extension=ts&play_token=gJuMNkDY7p
+http://vca.easy747.com:80/live/0578694/1295K6K/72220.ts
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/jdLJvSt2/20261001-194855.png" group-title="Discovery 🌍",National Geographic HINDI 2
+http://atlasgolden.xyz:80/live/T5QB4PTCQA25Q75/P2henT8V2G/72220.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="ISLAM",Quran TV.......96
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26Q5j0Hz/20260917-183055.png" group-title="ISLAM",Iqra Bangla.......95
