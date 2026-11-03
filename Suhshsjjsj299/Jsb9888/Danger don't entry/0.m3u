@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Makkah Live" tvg-logo="https://i.imgur.com/colOISC.jpeg" group-title="ISLAM",Makkah Live
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Makkah Live" tvg-logo="https://i.imgur.com/co" group-title="Bangladesh",BIGG BOSS BANGLA
+http://markethelp1.com:80/live/sree1602/9196sree/796230.ts
+#EXTINF:-1 tvg-name="Makkah Live" tvg-logo="https://i.imgur.com/co" group-title="Bangladesh",BIGG BOSS BANGLA (copy)
+https://limon-iptv-link.limon20202.workers.dev/bigg-boss-24x7.m3u8
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://i.postimg.cc/kG5drsLM/20260918-143128.png" group-title="Bangladesh",BTV
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG5drsL7/20260918-143215.png" group-title="Bangladesh",Jamuna
