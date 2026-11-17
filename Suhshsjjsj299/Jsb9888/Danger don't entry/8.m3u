@@ -12,7 +12,7 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjcBscrd/20260918-142223.png" group-title="Bangladesh",Ekattor HD
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FznXhcQZ/20260918-143603.png" group-title="Bangladesh",SOMOY TV
-https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
+https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1794938437~Starts=1794934837~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiYzgwZTMxOGQtODg2NS00ZDA3LWE2MGUtZmVjNDBiNzAxNWRkIn0~Signature=nTTxW0-t9BzoKvH9oqnsHtTX3mBduiC1SKPMXXrCsKBh8ItZmOZdM23EuXbY5zMnOyQ624HwQ4vV3Xzb8ClgCQ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRHhD27M/20260918-142610.png" group-title="Bangladesh",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2jrVcmG/20260918-142912.png" group-title="Bangladesh",Channel 24
@@ -56,13 +56,13 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/655QwLC9/20260917-184444.png" group-title="Bangladesh",JALSHA MOVIES
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqNnj4G9/20260917-203333.png" group-title="MOVIE 🍿",Star Movies HD
-http://filex.me:8080/live/03098001921RDB/03098001921RDB/52223.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/33618.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0312bb63186e1dd63c42f5bf6b7714cc.png" group-title="MOVIE 🍿",Star ACTION
-http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/74799.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/31492.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqZHpndq/20260918-143437.png" group-title="Bangladesh",Colors Bangla
-http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/34730.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/133492.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmX5WGL/20260917-185112.png" group-title="Bangladesh",Sun Bangla
-http://filex.me:8080/live/03098001921RDB/03098001921RDB/911177.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/171455.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXTP3Vty/20260918-105226.png" group-title="Bangladesh",ATN Bangla
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hx9p1Vxj/20260917-203017.png" group-title="Bangladesh",MADANI TV Bangla
@@ -72,21 +72,21 @@ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxtjvNrK/20260918-105540.png" group-title="Bangladesh",IN - ASIAN TV
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rshMz352/20260917-204241.png" group-title="Bangladesh",Sony Aath
-http://filex.me:8080/live/03098001921RDB/03098001921RDB/499642.ts
+http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/7Y6qjPyL/20260918-105253.png" group-title="Bangladesh",Independent TV
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTTBHcLS/20260917-184350.png" group-title="MOVIE 🍿",Jalsha Movies HD
-http://filex.me:8080/live/03098001921RDB/03098001921RDB/911145.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/132121.ts
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://i.postimg.cc/Zq3bjfzc/20260917-185551.png" group-title="MOVIE 🍿",Sony PIX HD
-http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/1020173.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/96663.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFnwp09G/20260917-185021.png" group-title="MOVIE 🍿",Sony Max HD
-http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/1020170.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/96664.ts
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/880235.png" group-title="MOVIE 🍿",AXN Movies
-http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/273378.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/30961.ts
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="MOVIE 🍿",ROCK ACTION
 http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/111726.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tsQBsHt/20260918-142129.png" group-title="Bangladesh",Colors HD 🔥
-http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/72156.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/151074.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvWg5ZmC/20260919-102539.png" group-title="Bangladesh",Ananda
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkTGp9Y8/20260918-105823.png" group-title="Bangladesh",Channel 9 HD
@@ -126,7 +126,7 @@ https://ranapkz.site/RANAPKX73/MAXCDN/play.php?id=373020
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/Zee_Cinema.png" group-title="MOVIE 🍿",Z Cinema
 http://markethelp1.com:80/live/sree1602/9196sree/230.ts
 #EXTINF:-1 tvg-name="MNX HD" tvg-logo="https://i.postimg.cc/jqhjGknR/20260917-184302.png" group-title="MOVIE 🍿",MNX HD
-http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/34698.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/132017.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDsbnQbk/20260917-203116.png" group-title="Bangladesh",My Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jjNxv8Yp/20260917-202936.png" group-title="Bangladesh",Channel i
@@ -134,7 +134,7 @@ https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://i.postimg.cc/FzGs37XF/20260917-183735.png" group-title="MOVIE 🍿",Colors Cineplex FHD
 http://markethelp1.com:80/live/sree1602/9196sree/867.ts
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-logo="https://static.epg.best/hu/Cinemax.hu.png" group-title="MOVIE 🍿",CINEMAX
-http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/68853.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/31245.ts
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.postimg.cc/9XBfvNRG/20260917-183941.png" group-title="MOVIE 🍿",Star Gold Select HD (....40
 http://vca.easy747.com:80/live/0578694/1295K6K/72142.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y4jVMMD/20260917-181909.png" group-title="Cartoon 🎎🤸",Nick Bangla
@@ -142,7 +142,7 @@ http://filex.me:8080/live/03098001921RDB/03098001921RDB/519972.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCvqLrnq/20260917-185153.png" group-title="Bangladesh",HUM TV
 https://ireentv.pages.dev/Hum_TV_HD_Server_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1BjKwh2/20260917-185237.png" group-title="Bangladesh",Star Plus HD
-http://leone62.com/live/MAGVU1A1Y8/MAGV11HAC9/72143.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/97524.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50VxrwxH/20260917-203209.png" group-title="Bangladesh",Akash Bangla
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kG7g2WZ528.png" group-title="MOVIE 🍿",& XploreHD
@@ -198,7 +198,7 @@ http://filex.me:8080/live/03098001921RDB/03098001921RDB/911152.ts
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/jdLJvSt2/20261001-194855.png" group-title="Discovery 🌍",National Geographic HINDI
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/246739.ts
 #EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/Pq8x9XYc/20260917-182420.png" group-title="Discovery 🌍",National Geographi বাংলা
-http://filex.me:8080/live/03098001921RDB/03098001921RDB/955394.ts
+http://bigdonkeyfanz.com:8080/live/MAGGCG2TS7X/BYE88C8Z/132322.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="ISLAM",Quran TV.......96
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26Q5j0Hz/20260917-183055.png" group-title="ISLAM",Iqra Bangla.......95
